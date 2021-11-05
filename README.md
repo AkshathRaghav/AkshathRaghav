@@ -46,7 +46,7 @@ that run blazing fast.
 </a>
 <br>
 <a href="https://github.com/AkshathRaghav/pygame-tripler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkshathRaghav&pygame-tripler&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkshathRaghav&repo=pygame-tripler&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br>
 <a href="https://github.com/AkshathRaghav/investigating-the-netflix-movies">
