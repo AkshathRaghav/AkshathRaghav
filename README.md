@@ -1,4 +1,4 @@
-[![Akshath's GitHub Banner](./repopic.png)
+![Akshath's GitHub Banner](./repopic.png)
 
 <div align = "center" >
   
@@ -14,25 +14,6 @@ I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed 
 I make it my mission to translate user-focused designs into pixel-perfect websites or applications <br>
 that run blazing fast.
  
-
-
-
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/akshathraghav">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshathraghav&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/akshathraghav">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=akshathraghav&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-<br>
-<br>
 
 ## 💼 Skills
 
@@ -51,5 +32,43 @@ that run blazing fast.
 ![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+
+
+
+## 📌 Pinned Repos
+
+<a href="https://github.com/AkshathRaghav/cubot.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkshathRaghav&repo=cubot.io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<br>
+<a href="https://github.com/AkshathRaghav/cubord.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkshathRaghav&repo=cubord.io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<br>
+<a href="https://github.com/AkshathRaghav/pygame-tripler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkshathRaghav&pygame-tripler&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<br>
+<a href="https://github.com/AkshathRaghav/investigating-the-netflix-movies">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkshathRaghav&repo=HackFromThePast&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+
+  
+  
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/akshathraghav">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshathraghav&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/akshathraghav">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=akshathraghav&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+</a>
+
+<br>
+<br>
 
 
