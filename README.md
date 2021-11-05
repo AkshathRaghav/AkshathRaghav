@@ -1,4 +1,4 @@
-![Akshath's GitHub Banner](./repopic.png)
+![Akshath's GitHub Banner](./repoicc.png)
 
 <div align = "center" >
   
