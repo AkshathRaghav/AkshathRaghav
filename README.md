@@ -11,7 +11,7 @@
 
 Hello there 👋
 
-I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. <br> 
+I’m Akshath, a high-school student who <br> 
 I make it my mission to translate user-focused designs into pixel-perfect websites or applications <br>
 that run blazing fast.
  
@@ -63,10 +63,6 @@ that run blazing fast.
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=akshathraghav&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 
-![End](./end.png)
-
-<br>
-<br>
-
+![End](./endb.png)
 
 
