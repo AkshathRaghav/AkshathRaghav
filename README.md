@@ -9,13 +9,6 @@
 </div> 
 
 
-Hello there 👋
-
-I’m Akshath, a high-school student who <br> 
-I make it my mission to translate user-focused designs into pixel-perfect websites or applications <br>
-that run blazing fast.
- 
-
 
 
 ## 💼 Skills
