@@ -46,15 +46,16 @@ Currently, I'm leading the Data Science Team within the Lightning Wildfire Lab (
 <a href="https://github.com/AkshathRaghav/cubot.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkshathRaghav&repo=cubot.io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/AkshathRaghav/rnpsmun2021.github.io">
+ <a href="https://github.com/AkshathRaghav/rnpsmun2021.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkshathRaghav&repo=rnpsmun2021.github.io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/AkshathRaghav/YourCollege">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkshathRaghav&repo=yourcollege&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <a href="https://github.com/AkshathRaghav/cubord.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkshathRaghav&repo=cubord.io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<a href="https://rnpsmun2021.github.io/index.html">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkshathRaghav&repo=HackFromThePast&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+
 </div>
   
 ## &#x1f4c8; GitHub Stats
