@@ -4,7 +4,7 @@
 <div align = "center" >
   
 [![](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/akshathrr/)
-[![](https://img.shields.io/badge/Resume-.pdf-informational?style=flat&logoColor=white&color=0D76A8)](https://github.com/AkshathRaghav/AkshathRaghav/blob/main/AkshathRaghavRResume.pdf)
+[![](https://img.shields.io/badge/Resume-.pdf-informational?style=flat&logoColor=white&color=0D76A8)](https://github.com/AkshathRaghav/AkshathRaghav/blob/main/AkshathRaghavR_Resume.pdf)
 [![](https://img.shields.io/badge/Email-araviki@purdue.edu-informational?style=flat&logoColor=white&color=0D76A8)](araviki@purdue.edu)
 </div> 
 
