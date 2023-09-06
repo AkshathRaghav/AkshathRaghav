@@ -11,7 +11,7 @@
 Hello,  I'm Akshath Raghav 👋
 ---
 
-I'm an undergraduate student @ Purdue University, pursuing a B.Sc. in Computer Engineering. I intend to graduate with through the Semiconductor and/or Machine Learning concentrations within the ECE Department.
+I'm an undergraduate student @ Purdue University, pursuing a B.Sc. in Computer Engineering. I intend to graduate with through the Embedded Systems and/or Machine Learning concentrations within the ECE Department.
 
 Here are the projects (unlisted) that I am working on currently: 
 - Tensorflow Model Garden, led by Prof. Davis 
