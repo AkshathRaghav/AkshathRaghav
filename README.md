@@ -11,8 +11,14 @@
 Hello,  I'm Akshath Raghav 👋
 ---
 
-I'm an undergraduate student @ Purdue University, pursuing a B.Sc. in Computer Engineering and a minor in Management. </br> </br> 
-Currently, I'm leading the Data Science Team within the Lightning Wildfire Lab (Prof. Wang, Purdue EAPS X NASA), where we are focusing on collecting and packaging multi-dimensional data from NASA and NOAA satellites to train on CNN, LSTM and ConvLSTM models. The end-goal is to predict wildfires caused by lightning strikes based on environmental factors.
+I'm an undergraduate student @ Purdue University, pursuing a B.Sc. in Computer Engineering. I intend to graduate with through the Semiconductor and/or Machine Learning concentrations within the ECE Department.
+
+Here are the projects (unlisted) that I am working on currently: 
+- Tensorflow Model Garden, led by Prof. Davis 
+- Bechtel IoT and Edge Processing Research Project, led by Dr. Swabey
+- Purdue Aerial Robotics Team (PART) - Software
+
+I'm actively looking for Winter 2023 part-time internships. Feel free to reach out to me at araviki@purdue.edu!
 
 ## 💼 Skills
 
