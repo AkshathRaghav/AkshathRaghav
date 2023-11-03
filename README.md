@@ -11,14 +11,16 @@
 Hello,  I'm Akshath Raghav 👋
 ---
 
-I'm an undergraduate student @ Purdue University, pursuing a B.Sc. in Computer Engineering. I intend to graduate with through the Computer Systems and/or Machine Learning concentrations within the ECE Department.
+I'm an undergraduate student @ Purdue University, pursuing a B.Sc. in Computer Engineering. I intend to graduate with through the AI/ML concentration within the ECE Department.
 
 Here are the projects (unlisted) that I am working on currently: 
-- Tensorflow Model Garden, led by Prof. Davis 
+- Tensorflow Model Garden, led by Prof. Davis
+- Claridge Lab, led by Prof. Claridge
 - Bechtel IoT and Edge Processing Research Project, led by Dr. Swabey
-- Purdue Aerial Robotics Team (PART) - Software
+- AWS OpenSearch - Benchmark, Build
+- ML@Purdue, as an Operations Officer 
 
-I'm actively looking for Winter 2023 part-time internships. Feel free to reach out to me at araviki@purdue.edu!
+I'm actively looking for Spring 2024 part-time internships. Feel free to reach out to me at araviki@purdue.edu!
 
 ## 💼 Skills
 
