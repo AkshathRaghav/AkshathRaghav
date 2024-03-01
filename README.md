@@ -11,16 +11,18 @@
 Hello,  I'm Akshath Raghav 👋
 ---
 
-I'm an undergraduate student @ Purdue University, pursuing a B.Sc. in Computer Engineering. I intend to graduate with through the AI/ML concentration within the ECE Department.
+I'm an undergraduate student @ Purdue University, pursuing a B.Sc. in Computer Engineering. I intend to graduate with through the AI/ML concentration within the ECE Department
 
-Here are the projects (unlisted) that I am working on currently: 
-- Tensorflow Model Garden, led by Prof. Davis
-- Claridge Lab, led by Prof. Claridge
-- Bechtel IoT and Edge Processing Research Project, led by Dr. Swabey
-- AWS OpenSearch - Benchmark, Build
-- ML@Purdue, as an Operations Officer 
+My primary interest revolves arould building robust user-facing solutions at the intersection of applied AI, reproducible (open-source) softwares and interoperablility principles. I enjoy research-driven environments aimed at taking concepts to tangible products.
 
-I'm actively looking for Spring 2024 part-time internships. Feel free to reach out to me at araviki@purdue.edu!
+Automatability, replicability and accessability remain the core of my work.
+
+Current (Updated 3/1):
+
+    Building a package for constraining LLM outputs within agent chains,
+    Estimating the transferrability of PTMs,
+    Developing an automated pipeline for evaluating the reproducibility of ML experiments.
+    Constructing multi-tool autonomous agents.
 
 ## 💼 Skills
 
