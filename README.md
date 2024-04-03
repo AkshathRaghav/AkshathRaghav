@@ -5,7 +5,7 @@ I'm an undergraduate student @ Purdue University, pursuing a B.Sc. in Computer E
 
 My primary interest revolves arould building robust user-facing solutions at the intersection of applied AI, reproducible (open-source) softwares and interoperablility principles. I enjoy research-driven environments aimed at taking concepts to tangible products.
 
-I'm currently looking to get involved in 3D Reconstruction, Multi-robot interactions and MLOps at scale. I'd highly appreciate any mentorship or suggestions for research labs @ Purdue that focus on these topics! 
+I'm currently looking to involved in any of the following (ranked) -- *Vision Generation Algorithms*, *Robot-Environment Interactions*, *GPU Programming*, *Digital Design ↔️ ML/DL*. I'd highly appreciate any mentorship or suggestions for research labs @ Purdue that focus on these topics!
 
 [Website](https://akshathraghav.github.io/)
 
