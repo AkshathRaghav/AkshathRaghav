@@ -1,13 +1,13 @@
 Hello,  I'm Akshath Raghav 👋
 ---
 
-I'm an undergraduate student @ Purdue University, pursuing a B.Sc. in Computer Engineering. I intend to graduate with through the AI/ML concentration within the ECE Department
+I'm an BS/MS student @ Purdue University, pursuing a B.Sc. in Computer Engineering. 
 
-My primary interest revolves arould building robust user-facing solutions at the intersection of applied AI, reproducible (open-source) softwares and interoperablility principles. I enjoy research-driven environments aimed at taking concepts to tangible products.
+My primary interest revolves arould building robust user-facing solutions at the intersection of explainable learning algorithms and interoperable systems. I enjoy research-driven environments aimed at taking concepts to tangible products.
 
-I'm currently looking to involved in any of the following (ranked) -- *Vision Generation Algorithms*, *Robot-Environment Interactions*, *GPU Programming*, *Digital Design ↔️ ML/DL*. I'd highly appreciate any mentorship or suggestions for research labs @ Purdue that focus on these topics!
+Automatability, reproducibility and accessability remain the core of my work.
 
-[Website](https://akshathraghav.github.io/)
+I’m concurrently working on multimodal document understanding, model-task alignment and integrated tools for AI agents. Post this, I intend to dive into accelerated computing and parallized ML architectures. Feel free to reach out to me at araviki[at]purdue[dot]edu.
 
 <div align = "center" >
   
